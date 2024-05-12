@@ -1,0 +1,11 @@
+C:\Users\deivy\primeraclasec#\HelperLib\bin\Debug\net8.0\HelperLib.deps.json
+C:\Users\deivy\primeraclasec#\HelperLib\bin\Debug\net8.0\HelperLib.dll
+C:\Users\deivy\primeraclasec#\HelperLib\bin\Debug\net8.0\HelperLib.pdb
+C:\Users\deivy\primeraclasec#\HelperLib\obj\Debug\net8.0\HelperLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deivy\primeraclasec#\HelperLib\obj\Debug\net8.0\HelperLib.AssemblyInfoInputs.cache
+C:\Users\deivy\primeraclasec#\HelperLib\obj\Debug\net8.0\HelperLib.AssemblyInfo.cs
+C:\Users\deivy\primeraclasec#\HelperLib\obj\Debug\net8.0\HelperLib.csproj.CoreCompileInputs.cache
+C:\Users\deivy\primeraclasec#\HelperLib\obj\Debug\net8.0\HelperLib.dll
+C:\Users\deivy\primeraclasec#\HelperLib\obj\Debug\net8.0\refint\HelperLib.dll
+C:\Users\deivy\primeraclasec#\HelperLib\obj\Debug\net8.0\HelperLib.pdb
+C:\Users\deivy\primeraclasec#\HelperLib\obj\Debug\net8.0\ref\HelperLib.dll
